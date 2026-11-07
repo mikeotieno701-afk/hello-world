@@ -1,1 +1,1 @@
-# hello-world
+Hello! I'm Polycarp Mike Otieno, based in Nairobi, Kenya. I am a dedicated Information Technology professional pursuing a Bachelor of Applied Science degree in IT with a specialization in System Administration. Passionate about infrastructure, cybersecurity, and community empowerment, I am continuously expanding my expertise in network security, system management, and modern digital engineering tools.
